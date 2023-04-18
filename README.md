@@ -11,5 +11,5 @@ The other two logos were designed for the organization of the ETF party.
 <p align="center">
   <img src="./etfZurkaLogo/formats/PNG/blackPNG.png">
 
-  <img src="./etfZurkaLogo/formati/PNG/whitePNG.png">
+  <img src="./etfZurkaLogo/formats/PNG/whitePNG.png">
 </p>
