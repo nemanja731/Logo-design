@@ -7,7 +7,7 @@ The first logo is a logo designed for a company called Advense.
   <img src="./AdvenseLogo/formats/PNG/firstPNG.png">
 </p>
 
-Before I made this logo, I tried different variations of different ideas, and you can see those ideas in folder [advenseDesigns](./AdvenseLogo/otherDesigns/secondExample.png)
+Before I made this logo, I tried different variations of different ideas, and you can see those ideas in [advenseDesigns](./AdvenseLogo/otherDesigns/secondExample.png)
 
 ## Second and Third logo
 The other two logos were designed for the organization of the ETF party.
